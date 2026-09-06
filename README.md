@@ -7,7 +7,8 @@ read more about it - https://en.wikipedia.org/wiki/RC4
 
 learned a lot from Jonas Birch — do check his youtube out.. !
 
-I've also included my own visual notes  (./encry_compressed.pdf)
+I've also included my own visual notes 📝 
+https://github.com/AuxSHii/encry--rc4-based-c-encryption-lib/blob/main/encry_compressed.pdf
 from my learning process. If you're interested, you can use them as a reference 
 to understand the concepts and follow along with building the project yourself.
 
